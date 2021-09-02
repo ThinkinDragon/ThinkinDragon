@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ThinkinDragon
 - 👀 I’m interested in inovative Solutions and crirtiacal problem solver 
+- 💼 Skilled on full stack scalable and real word arrangement
 <!---
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
